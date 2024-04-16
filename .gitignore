@@ -1,0 +1,7 @@
+# ignore cmake files and vscode files
+CMakeLists.txt
+.vscode
+
+# ignore build and vscode folders, and their contents
+Project3_Redo/build/
+Project3_Original/build/
