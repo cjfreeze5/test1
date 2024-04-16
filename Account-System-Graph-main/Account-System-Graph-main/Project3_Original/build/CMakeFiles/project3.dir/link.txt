@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/project3.dir/main.cpp.o CMakeFiles/project3.dir/Project3a.cpp.o CMakeFiles/project3.dir/Graph.cpp.o -o project3 

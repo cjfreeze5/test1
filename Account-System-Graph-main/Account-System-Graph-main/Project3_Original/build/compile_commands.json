@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/bcurley/Desktop/Account-System-Graph/Project3_Original/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/project3.dir/main.cpp.o -c /Users/bcurley/Desktop/Account-System-Graph/Project3_Original/main.cpp",
+  "file": "/Users/bcurley/Desktop/Account-System-Graph/Project3_Original/main.cpp",
+  "output": "CMakeFiles/project3.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/bcurley/Desktop/Account-System-Graph/Project3_Original/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/project3.dir/Project3a.cpp.o -c /Users/bcurley/Desktop/Account-System-Graph/Project3_Original/Project3a.cpp",
+  "file": "/Users/bcurley/Desktop/Account-System-Graph/Project3_Original/Project3a.cpp",
+  "output": "CMakeFiles/project3.dir/Project3a.cpp.o"
+},
+{
+  "directory": "/Users/bcurley/Desktop/Account-System-Graph/Project3_Original/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/project3.dir/Graph.cpp.o -c /Users/bcurley/Desktop/Account-System-Graph/Project3_Original/Graph.cpp",
+  "file": "/Users/bcurley/Desktop/Account-System-Graph/Project3_Original/Graph.cpp",
+  "output": "CMakeFiles/project3.dir/Graph.cpp.o"
+}
+]
